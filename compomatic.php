@@ -4,7 +4,7 @@
 function compile_sass()
 {
     /*******************************************
-     * CUSTOMIZE THIS VARIABLES TO YOUR LIKING *
+     * CUSTOMIZE THESE VARIABLES TO YOUR LIKING *
      ********************************************/
     $output_file = './assets/css/components.css'; // Define output file
     $output_dir = dirname($output_file); // Get the directory of the output file

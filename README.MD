@@ -1,5 +1,5 @@
 # Compomatic v. 0.0.1
-![GitHub all releases](https://img.shields.io/github/downloads/slaveworx/compomatic/total) ![GitHub](https://img.shields.io/github/license/slaveworx/compomatic) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/slaveworx/compomatic?style=plastic) ![visitors](https://visitor-badge.glitch.me/badge?page_id=slaveworx.visitorbadge&left_color=green&right_color=red)
+![GitHub all releases](https://img.shields.io/github/downloads/slaveworx/compomatic/total) ![GitHub](https://img.shields.io/github/license/slaveworx/compomatic) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/slaveworx/compomatic?style=plastic) ![visitors](https://visitor-badge.glitch.me/badge?page_id=slaveworx.visitor-badge&left_color=green&right_color=red)
 
 Tiago Galvão - Slaveworx - 2023
 ______________________
