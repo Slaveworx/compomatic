@@ -1,7 +1,9 @@
 # Compomatic v. 0.0.1
-![GitHub all releases](https://img.shields.io/github/downloads/slaveworx/compomatic/total) ![GitHub](https://img.shields.io/github/license/slaveworx/compomatic) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/slaveworx/compomatic?style=plastic)
+![GitHub all releases](https://img.shields.io/github/downloads/slaveworx/compomatic/total) ![GitHub](https://img.shields.io/github/license/slaveworx/compomatic) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/slaveworx/compomatic?style=plastic) ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
 Tiago Galvão - Slaveworx - 2023
 ______________________
+
 A simple sass compiler implementation that uses **Gulp** and **SCSSPHP** to compile sass used inside components that are defined inside PHP files and that follow something like the Vue.Js component definition style.
 
 This will allow you to have something like this:
@@ -66,7 +68,7 @@ These are the variables you can modify:
 
 ```php
 /*******************************************
-* CUSTOMIZE THIS VARIABLES TO YOUR LIKING *
+* CUSTOMIZE THESE VARIABLES TO YOUR LIKING *
 ********************************************/
 
 $output_file  =  './assets/css/test.css';  // Define output file
